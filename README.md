@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CGPA-7.3-blue?style=flat-square" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CGPA-7.6-blue?style=flat-square" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-SDE%20%7C%20Java%20Developer-orange?style=flat-square" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-green?style=flat-square" /></a>
 </p>
