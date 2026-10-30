@@ -14,9 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year B.E. Computer Engineering student at **Rajiv Gandhi Institute of Technology (RGIT), Mumbai**
-- 💻 Currently interning as a **MERN Stack Developer at BeeSkilled**
-- 🎯 Preparing for **SDE & Java Developer** roles — targeting companies like TCS, Infosys, Persistent, and JP Morgan
+- 🎓 Final-year B.E. Computer Engineering student at **Rajiv Gandhi Institute of Technology (RGIT), Mumbai** 
 - 📄 Co-authored a research paper on AI-based crop insurance validation
 - ☁️ Cloud Computing background — AWS, Docker, Kubernetes; pursuing/holding **AZ-900** and **AI-900** certifications
 - 🏏 When I'm not coding, I'm probably watching IPL cricket or planning my next trip
